@@ -22,7 +22,7 @@ window.alert('Hello... I can run JS through my web browsers console');
 var username;
 
 // Q # 2
-var myName = "Muhammad Waleed Khan";
+var myName = "Saad Hashim";
 
 // Q # 3
 var message;
@@ -31,7 +31,7 @@ message = "Hello World";
 alert(message);
 
 // Q # 4
-var name = "Muhammad Huzaifa Khan";
+var name = "Saad Hashim";
 var age = 32;
 var course = "Certified Hybrid Mobile Application Development";
 
@@ -45,7 +45,7 @@ var pizza = "PIZZA\nPIZZ\nPIZ\nPI\nP";
 alert(pizza);
 
 // Q # 6
-var email="huzaifanadir1997@gmail.com";
+var email="saadhashim.se@gmail.com";
 
 alert("My Email Address is "+email);
 
@@ -60,7 +60,7 @@ document.write("Yah! I can write HTML content through Javascript");
 // CHAP # 03
 
 // Q # 1
-var age = 23;
+var age = 32;
 alert("I am ".concat(age, " years old"));
 
 // Q # 2
@@ -481,7 +481,7 @@ else {
 }
 
 //Q # 5
-var corrPassword = "Waleed1999";
+var corrPassword = "saad123";
 var userPassword = prompt("Enter Your Password");
 if(userPassword == "") {
     alert("Please Enter Your Password");
@@ -533,7 +533,7 @@ var stdInfo = [];
 var studInfo = new Array();
 
 //Q # 3
-var name = ["waleed Khan", "Huzaifa Khan", "Khan Abu Bakar"];
+var name = ["saad hashim", "jawwad", "zohaib"];
 
 //Q # 4
 var ages = [21, 23, 19];
@@ -542,7 +542,7 @@ var ages = [21, 23, 19];
 var booleanArray = [true, false];
 
 //Q # 6
-var mixedArray = ["waleed Khan", 21, true];
+var mixedArray = ["saad hashim", 21, true];
 
 //Q # 7
 var quaInPak = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M.Phil.", "PhD"];
@@ -552,7 +552,7 @@ for (var i=0; i<quaInPak.length; i++) {
 }
 
 //Q # 8
-var stdName = ["Waleed", "Huzaifa", "Abu Bakar"];
+var stdName = ["saad", "Huzaifa", "hashim"];
 var stdScore = [230, 480, 320];
 var totalMarks = 500;
 document.write("<br /><br />");
